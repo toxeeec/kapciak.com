@@ -1,0 +1,3 @@
+bun astro check
+bun eslint --fix
+bun prettier . --write --ignore-unknown
