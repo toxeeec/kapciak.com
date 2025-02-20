@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bartoszkapciak.com/sitemap-index.xml
+Sitemap: https://kapciak.com/sitemap-index.xml

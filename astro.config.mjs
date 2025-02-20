@@ -7,5 +7,5 @@ import { defineConfig } from "astro/config";
 // https://astro.build/config
 export default defineConfig({
 	integrations: [tailwind(), sitemap(), icon()],
-	site: "https://bartoszkapciak.com",
+	site: "https://kapciak.com",
 });
