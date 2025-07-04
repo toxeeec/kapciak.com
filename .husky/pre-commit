@@ -1,1 +1,1 @@
-bun pretty-quick --staged
+pnpm pretty-quick --staged
